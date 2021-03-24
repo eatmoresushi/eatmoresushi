@@ -2,7 +2,6 @@
 
 I love coding in Python 🐍. I'm currently looking for new opportunities. You can check out my resume [here](http://luyuan.me/resume.pdf).
 
-- 🚧 I'm currently learning AWS basic.
 - 🚧 I'm preparing for technical interviews by reviewing core data structures, algorithms, and concepts.
 - 🚩 I occasionally participate in [Capure the Flags](https://ctftime.org/ctf-wtf/) competitions.
 - ✏️ I write blogs on my [website](http://luyuan.me/).
