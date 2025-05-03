@@ -1,7 +1,7 @@
 ## 你好 Hello I'm Allen
 
 - 👧 Proud father of a little monster
-- 👨‍💻 Looking for a Test Automation Specialist around Sydney area
+- 👨‍💻 I'm looking for an automation specialist job around Sydney
 - 🥋 Training in Brazilian Jiu-Jitsu
 - 🎲 I love to play board games and write short reviews for them. You can find me on [BGG](https://boardgamegeek.com/user/EatMoreSushi). 
 
